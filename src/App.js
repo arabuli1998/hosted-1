@@ -8,6 +8,7 @@ import Home from './pages/home/Home';
 import HoweWork from './pages/howWeWork/HoweWork';
 import Humanity from './pages/humanity/Humanity';
 import Milestone from './pages/milestone/Milestone';
+import Savarjishod from './components/Savarjishod';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
      <Generous/>
      <Global/>
      <Footer/>
+   
     </div>
   );
 }
