@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hosted-1/static/css/main.49b7ef7b.css",
+    "main.js": "/hosted-1/static/js/main.1c5400ed.js",
+    "static/media/hundred.PNG": "/hosted-1/static/media/hundred.665f9fb50cd2bf0738c3.PNG",
+    "static/media/loop.PNG": "/hosted-1/static/media/loop.940a05359a6927880d54.PNG",
+    "static/media/location.PNG": "/hosted-1/static/media/location.edbd5756686b4f0ec11e.PNG",
+    "static/media/pledge.PNG": "/hosted-1/static/media/pledge.1a132840c71703b0b020.PNG",
+    "static/media/logo.PNG": "/hosted-1/static/media/logo.b6f3b36b9222d458cffb.PNG",
+    "static/media/partner.PNG": "/hosted-1/static/media/partner.51ef2b3e6ca9096b0411.PNG",
+    "static/media/volunteer.PNG": "/hosted-1/static/media/volunteer.cec71cf9bff3caa8808c.PNG",
+    "static/media/coffe.PNG": "/hosted-1/static/media/coffe.8b49d67d8148d3e83216.PNG",
+    "static/media/sponsored.PNG": "/hosted-1/static/media/sponsored.28f8c5e6c23ba5c19287.PNG",
+    "static/media/help.PNG": "/hosted-1/static/media/help.06fdd680f7126b4a6210.PNG",
+    "index.html": "/hosted-1/index.html",
+    "main.49b7ef7b.css.map": "/hosted-1/static/css/main.49b7ef7b.css.map",
+    "main.1c5400ed.js.map": "/hosted-1/static/js/main.1c5400ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b7ef7b.css",
+    "static/js/main.1c5400ed.js"
+  ]
+}
